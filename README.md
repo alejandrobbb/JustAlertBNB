@@ -1,4 +1,4 @@
-# BNB/USDT MA99 Monitor
+# BNB/USDT FUTURES MA99 Monitor
 
 A script that monitors the BNB/USDT price in relation to its 99-period Moving Average on a 15-minute timeframe.
 
